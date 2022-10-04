@@ -44,7 +44,7 @@ const Footer = () => {
                     <div className="col-md-4">
                         <h4 className='my-3'>Subscribe to our newsletter</h4>
                         <div class="mb-3 ston">
-                            <input type="text" class="form-control " placeholder="Email address" />
+                            <input type="text" class="form-control my-input" placeholder="Email address" />
                             <button className="btn btn-primary my-btn">Subscribe <i class="bi bi-arrow-right"></i></button>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                     <div className="col-12 text-end mt-3">
                         <div className='text-white'><p className='me-5 d-inline'>Terms and Policy</p>
                         <img src={twitter} alt="logo" className='' />
-                        <img src={facebook} alt="logo" className='mx-5' />
+                        <img src={facebook} alt="logo" className='mx-4' />
                         <img src={insta} alt="logo" className='' />
                         </div>
                     </div>

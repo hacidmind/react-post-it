@@ -84,7 +84,7 @@ const Jumbotron = () => {
                         <h2 className='mt-3'>Try Post<span className='text-primary'>it</span></h2>
                         <p className='my-3'>Do you want to write or discover stories from writers on any topic?</p>
                         <div class="input-group mb-5 w-50 m-auto">
-                            <input type="text" class="form-control" placeholder="Enter Email Address" aria-label="Recipient's username" aria-describedby="basic-addon2" />
+                            <input type="text" class="form-control d-none d-md-block" placeholder="Enter Email Address" aria-label="Recipient's username" aria-describedby="basic-addon2" />
                                 <span class="input-group-text bg-primary text-white " id="basic-addon2">Get Started</span>
                         </div>
                     </div>
