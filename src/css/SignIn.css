@@ -1,0 +1,21 @@
+.signin input[type=email], input[type=password] {
+    width: 80% !important;
+    margin: auto;
+    /* padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(228, 220, 220); */
+}
+
+
+.cont2 {
+    width: 80%;
+    margin: auto;
+    background-color: #0086B0;
+
+}
+
+.fs-5{
+    text-align: center !important;
+}
